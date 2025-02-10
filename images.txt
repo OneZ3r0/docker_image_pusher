@@ -7,4 +7,4 @@
 
 c0ny1/upload-labs
 acgpiano/sqli-labs
-open-webui/open-webui:main
+ghcr.io/open-webui/open-webui:main
