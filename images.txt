@@ -9,3 +9,4 @@ c0ny1/upload-labs
 acgpiano/sqli-labs
 gztime/gzctf
 portswigger/sig2n
+wpscanteam/wpscan
