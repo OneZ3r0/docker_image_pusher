@@ -10,3 +10,4 @@ acgpiano/sqli-labs
 gztime/gzctf
 portswigger/sig2n
 wpscanteam/wpscan
+javachains/javachains
