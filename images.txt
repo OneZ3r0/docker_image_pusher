@@ -11,3 +11,4 @@ gztime/gzctf
 portswigger/sig2n
 wpscanteam/wpscan
 javachains/javachains
+nextcloud:35.0.0-apache
