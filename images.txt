@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-ruoji6/artex
+ruoji6/artex:v0.3.30
