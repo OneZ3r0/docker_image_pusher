@@ -12,3 +12,4 @@ portswigger/sig2n
 wpscanteam/wpscan
 javachains/javachains
 nextcloud:35.0.0-apache
+ruoji6/artex
